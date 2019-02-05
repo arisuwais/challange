@@ -1,0 +1,57 @@
+[
+   {
+      "status": true,
+      "task_content": "saya mau bermain ",
+      "tag": [
+         "bola",
+         "basket",
+         "minum",
+         "susu"
+      ]
+   },
+   {
+      "status": false,
+      "task_content": "saya mau mandi ",
+      "tag": [
+         "basket",
+         "susu",
+         "roti",
+         "daging"
+      ]
+   },
+   {
+      "status": true,
+      "task_content": "saya mau ngoding ",
+      "tag": [
+         "nodejs",
+         "javascript"
+      ]
+   },
+   {
+      "status": false,
+      "task_content": "saya mau lulus ",
+      "tag": [
+         "giat",
+         "belajar",
+         "kuliah"
+      ]
+   },
+   {
+      "status": true,
+      "task_content": "saya mau minum ",
+      "tag": [
+         "jeruk",
+         "tomat"
+      ]
+   },
+   {
+      "status": false,
+      "task_content": "saya mau tidur ",
+      "tag": [
+         "tomat",
+         "apel",
+         "pepaya",
+         "mangga"
+      ]
+   }
+]
